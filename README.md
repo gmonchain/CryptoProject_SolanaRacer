@@ -4,7 +4,7 @@
 
 ![FarRank Banner](Banner/Banner.png)
 
-In the rapidly evolving digital landscape, two vibrant worlds — high-stakes cryptocurrency and immersive gaming — often operate in silos. SolanaRacer emerges as a revolutionary bridge, ingeniously fusing the adrenaline of Formula 1 racing with the dynamic pulse of crypto price prediction. It's designed to dismantle barriers and enrich experiences across several critical fronts:
+In the rapidly evolving digital landscape, two vibrant worlds, high-stakes cryptocurrency and immersive gaming, often operate in silos. SolanaRacer emerges as a revolutionary bridge, ingeniously fusing the adrenaline of Formula 1 racing with the dynamic pulse of crypto price prediction. It's designed to dismantle barriers and enrich experiences across several critical fronts:
 
 <table style="width:100%">
   <tr>
