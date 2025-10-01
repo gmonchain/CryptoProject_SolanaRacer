@@ -41,7 +41,5 @@ The promise of Web3 often remains a niche for early adopters. SolanaRacer is bui
 *   **Unlocking True Social Utility:** By deeply integrating with Farcaster, SolanaRacer harnesses the power of decentralized social networks for authentic user identity and dynamic community interaction within the game.
 *   **Showcasing Solana's Power:** Beyond trading, SolanaRacer highlights the real-world application and performance capabilities of the Solana blockchain, proving its utility as the bedrock for next-generation interactive experiences.
 
-By meticulously blending the competitive spirit of racing with the analytical thrill of crypto markets, SolanaRacer isn't just a game; it's an experience that drives engagement, fosters learning, and accelerates the journey towards a more interconnected and exciting Web3 future.
-
 ## Farcaster Mini App
 Explore FarRank on Farcaster: [https://farcaster.xyz/miniapps/cjid6h0qA1ju/solana-racer](https://farcaster.xyz/miniapps/cjid6h0qA1ju/solana-racer)
